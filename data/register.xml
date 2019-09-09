@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<register>
+    <jia>
+        <num1>5</num1>
+        <num2>10</num2>
+        <expect>15</expect>
+    </jia>
+    <jian>
+        <num1>10</num1>
+        <num2>2</num2>
+        <expect>8</expect>
+    </jian>
+</register>
