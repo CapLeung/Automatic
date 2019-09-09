@@ -24,3 +24,7 @@ UnoDeDebug错误：“GBK”编解码器不能解码位置14中的字节0x89:非
 HttpWatch越过前端限制，验证数据库是否设置了验证
 
 在Testcase1文件夹想创建一个新的py文件存储email格式错误的测试用例，命名为email.py,结果在自动化测试时会报错，module 'http' has no attribute 'client'，原因：email是系统关键字，不能作为文件名称
+
+
+
+后续会有接口以及性能测试的过程...
